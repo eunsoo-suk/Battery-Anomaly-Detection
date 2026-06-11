@@ -1,0 +1,13 @@
+cell_id,is_anomalous,z_onset_2sigma,z_onset_3sigma,final_z,diao_earliest,diao_latest
+D1_Subseq_1,True,168.0,205.0,-16.277228726444164,107.0,115.0
+D1_Subseq_2,True,205.0,223.0,-13.307965906204368,36.0,57.0
+D1_Subseq_3,True,225.0,278.0,-8.410386446505424,119.0,139.0
+D1_Subseq_4,True,277.0,299.0,-6.4265430844906675,153.0,226.0
+D1_Subseq_5,True,318.0,385.0,-3.872903426494772,318.0,338.0
+D1_Subseq_6,True,294.0,321.0,-3.9058612147853133,265.0,277.0
+D1_Qual_1,False,,,0.0,,
+D1_Qual_2,False,,,0.0,,
+D1_Qual_3,False,,,0.0,,
+D1_Qual_4,False,,,0.0,,
+D1_Qual_5,False,,,0.0,,
+D1_Qual_6,False,,,0.0,,

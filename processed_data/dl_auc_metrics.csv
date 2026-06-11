@@ -1,0 +1,7 @@
+dataset,method,ROC_AUC,PR_AUC,n_normal,n_anomaly,branch
+Dataset1,LSTM_AE,1.0,1.0,6,6,B (DL v2)
+Dataset1,TCN_AE,1.0,1.0,6,6,B (DL v2)
+Dataset1,Transformer_AE,1.0,1.0,6,6,B (DL v2)
+Dataset2,LSTM_AE,0.9761904761904762,0.9709595959595962,14,9,B (DL v2)
+Dataset2,TCN_AE,0.8174603174603174,0.8475021977601958,14,9,B (DL v2)
+Dataset2,Transformer_AE,0.9603174603174603,0.9512701804368473,14,9,B (DL v2)
